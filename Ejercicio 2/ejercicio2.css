@@ -1,0 +1,17 @@
+.calculator {
+    text-align: center;
+}
+
+    .calculator input {
+        display: block;
+        margin: 20px auto;
+        padding: 10px;
+        width: 200px;
+        text-align: right;
+}
+
+.calculator button {
+        padding: 10px 20px;
+        margin: 5px;
+        font-size: 18px;
+}

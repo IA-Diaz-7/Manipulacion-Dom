@@ -1,0 +1,41 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.counter {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.counter button {
+    padding: 10px 20px;
+    font-size: 18px;
+}
+
+.counter span {
+    font-size: 24px;
+    margin: 0 20px;
+}
+
+.timer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.timer input {
+    padding: 5px;
+    font-size: 16px;
+}
+
+.timer button {
+    padding: 10px 20px;
+    font-size: 18px;
+}
